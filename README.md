@@ -30,6 +30,8 @@ Främsta delen av koden finns i main.c varav koden i sig bör vara ganska själv
 
 Inuti main.c används ioport för att konfigurera pinnar. Notera också koden för att sätta igång pull-up på pinnarna kopplade till knapparna. Så länge pinnarna inte är jordade kommer pinnarna att ligga på en etta (3,3V).
 
+Utöver pull-up så finns det även funktionalitet för anti-knappstuds filter som är direkt inbyggt i Arduino-due kortet. Om ni har problem med knappstuds på era knappar rekommenderar jag att testa ändra lite grann på värdena som finns i koden.
+
 För själva testet i sig så trycker du på en viss knapp. Om knappen fungerar som tänkt ska en lysdiod tändas. Om du trycker på den andra knappen ska en annan lysdiod tändas. Om du trycker på båda knapparna samtidigt kommer alla tre lysdioder att tändas. Utöver detta kommer även det förväntade resultatet att skrivas ut i terminalen. Om knapparna följer ovanstående specifikation så grattis, hårdvaran är nu uppkopplad och klar!
 
 Använd gärna koden som finns i testprogrammet för själva laborationen i sig. Var säkra också inför del 2 av laborationen att ni använder er av 1803b projektet som grund för erat nya projekt.
