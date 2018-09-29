@@ -1,4 +1,4 @@
-#Förberedelse inför laboration 1803g
+# Förberedelse inför laboration 1803g
 
 *Philip Ekholm, 2018-10-01*
 
@@ -6,7 +6,7 @@ Under laboration 1803g kommer ni att bygga ett reaktionstestspel. Som en förber
 
 Komponenter för att koppla upp detta har getts ut. Om ni fortfarande inte har erhållit sådana komponenter kontakta labansvarig. Observera att denna förberedelse måste vara färdig innan laborationstillfälle för möjlighet att bli klar med laborationen samma dag.
 
-##Uppkoppling av reaktionstest
+## Uppkoppling av reaktionstest
 
 ![Reaktionstest kopplingsschema](reaction-board.png)
 
@@ -18,11 +18,11 @@ Den observanta noterar att när knapparna inte är nedtryckta ligger vi i ett od
 
 Ett exempel på hur det skulle kunna se ut
 
-![Exempel reaktionstest](exempel-reaktionstest.png)
+![Exempel reaktionstest](exempel-reaktionstest.jpg)
 
 Bonuspoäng för den som lyckas dra med extremt korta kablar!
 
-##Testprogrammet
+## Testprogrammet
 
 Till det här repot finns ett projekt vid namn TestSetup. Med hjälp av denna ska ni snabbt kunna testa och se ifall ni har kopplat upp allt korrekt. 
 
