@@ -12,7 +12,7 @@ Komponenter för att koppla upp detta har getts ut. Om ni fortfarande inte har e
 
 Ni behöver inte använda er av de pinnar som finns specificerade här, notera dock att andra pinnar kan behövas under senare delen av laborationen samt att dessa är försatt i testprogrammet. Ändra på egen risk.
 
-Att ha 330 Ohm på motstånden kan anses att ta i med tanke på att pinnarna levererar endast 3,3 V, så om ni kan hitta mindre bör det fungera väl att använda sig av det.
+Att ha 330 Ohm på motstånden till lysdioderna kan anses att ta i med tanke på att pinnarna levererar endast 3,3 V, så om ni kan hitta mindre bör det fungera väl att använda sig av det.
 
 Den observanta noterar att när knapparna inte är nedtryckta ligger vi i ett odefinierat läge. Tanken är att använda sig av de interna pull-up motstånd som finns inuti PIO-kontrollern. 
 
