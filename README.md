@@ -12,7 +12,7 @@ Komponenter för att koppla upp detta har getts ut. Om ni fortfarande inte har e
 
 Ni behöver inte använda er av de pinnar som finns specificerade här, notera dock att andra pinnar kan behövas under senare delen av laborationen samt att dessa är försatt i testprogrammet. Ändra på egen risk.
 
-** Eventuellt behövs inte resistorerna till knapparna utan kan tas bort helt och hållet. Om ni får problem med knapparna under laborationen testa att ta bort dessa. **
+**Eventuellt behövs inte resistorerna till knapparna utan kan tas bort helt och hållet. Om ni får problem med knapparna under laborationen testa att ta bort dessa.**
 
 Att ha 330 Ohm på motstånden till lysdioderna kan anses att ta i med tanke på att pinnarna levererar endast 3,3 V, så om ni kan hitta mindre bör det fungera väl att använda sig av det.
 
